@@ -1,7 +1,6 @@
 GCA - Gerenciador de Carteira automático.
-Primeira pasta sincronizada com o git hub
+Programa para gerenciar carteira de investimentos.
 
 
-teste do segundo upload do arquivo
 
-teste de envio direto pelo vscode
+v0- criaçao do banco de dados e importação de arquivos do extrato b3.
