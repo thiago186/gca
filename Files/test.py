@@ -9,7 +9,7 @@ import passwords as passwords
 import database_infos as database
 from interpretador_sql import get_cnx
 from tkinter import filedialog
-print('teste github')
+#print('teste github')
 user = passwords.db_user
 password = passwords.db_secret
 host = database.host
